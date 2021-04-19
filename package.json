@@ -38,7 +38,7 @@
 		"find-up": "^5.0.0",
 		"lodash.get": "^4.4.2",
 		"pretty-data2": "~0.40.1",
-		"xmldom": "~0.3.0"
+		"xmldom": "~0.6.0"
 	},
 	"devDependencies": {
 		"@geek/eslint-config": "0.0.16",
